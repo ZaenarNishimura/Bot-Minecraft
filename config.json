@@ -1,0 +1,9 @@
+{
+	"ip":"FlyWorldSmpS2.aternos.me",
+	"port": "24330",
+	"name": "ZkyXYZ",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
